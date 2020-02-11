@@ -4,7 +4,7 @@ import './App.scss';
 function App() {
   return (
     <div className="App">
-      <div className="anomation-one">
+      <div className="animation-one">
         <div className="loader">
           <span></span>
           <span></span>
@@ -22,6 +22,12 @@ function App() {
           <span></span>
           <span></span>
         </div>
+      </div>
+      <div className="animation-two-container">
+        <div className="center">
+          <div className="arrow"></div>
+        </div>
+        <div className="text">Scroll Down</div>
       </div>
     </div>
   );

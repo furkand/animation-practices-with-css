@@ -2,6 +2,13 @@ $white: #f4f4f8;
 $darkWhite: #c5c5cc;
 $red: #fe4a49 ;
 
+.animation-one{
+    width: 100vh;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 .loader{
   position: relative;
   width: 300px;
